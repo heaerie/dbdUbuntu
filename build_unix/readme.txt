@@ -1,0 +1,7 @@
+DEFAULT_CACHESIZE=100;
+DEFAULT_NUMCACHE=6;
+LOCKSIZE= 10000;
+
+--enable-sql --enable-debug
+
+

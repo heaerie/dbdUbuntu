@@ -1,0 +1,5 @@
+set_lock_timeout 100000
+set_cachesize 0 335544324 4
+set_cachemax 0 335544324 4
+set_lk_tableszie 100000
+set_verbose DB_VERB_DEDLOCK
